@@ -47,3 +47,67 @@ i18n
 export default i18n;
 
 thats how my i18 setup is.
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+🔧 Text & Data Tools
+Base64 Encoder/Decoder
+
+URL Encoder/Decoder
+
+Hash Generator (MD5, SHA-1, SHA-256)
+
+Lorem Ipsum Generator
+
+Text Diff Checker
+
+CSV to JSON Converter
+
+SQL Formatter
+
+🎨 Design & Color Tools
+Gradient Generator
+
+Box Shadow Generator
+
+Font Preview Tool
+
+Icon Resizer (multiple sizes)
+
+Favicon Generator
+
+📊 Development Tools
+Regex Tester
+
+JSON Validator
+
+XML Formatter
+
+Timestamp Converter
+
+User-Agent Parser
+
+HTTP Status Code Lookup
+
+🔐 Security Tools
+Password Generator
+
+JWT Debugger
+
+SSL Certificate Checker
+
+Data URI Generator
+
+📁 File & System Tools
+File Size Converter (KB, MB, GB)
+
+MIME Type Lookup
+
+IP Address Lookup
+
+UUID Generator
