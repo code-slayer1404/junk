@@ -111,3 +111,5 @@ MIME Type Lookup
 IP Address Lookup
 
 UUID Generator
+
+https://fdc.nal.usda.gov/api-guide
